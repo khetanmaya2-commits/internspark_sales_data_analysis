@@ -87,11 +87,10 @@ The dataset was cleaned and transformed using Python:
 ```text
 Sales-Performance-Analysis/
 │
-├── dataset/
+├── data/
 ├── notebooks/
-├── dashboard/
-├── screenshots/
-├── reports/
+├── visuals/
+├── dashboard_png
 └── README.md
 ```
 
