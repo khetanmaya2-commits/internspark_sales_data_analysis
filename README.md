@@ -90,7 +90,7 @@ Sales-Performance-Analysis/
 ├── data/
 ├── notebooks/
 ├── visuals/
-├── dashboard_png
+├── Sales_Data_Dashboard_jpg
 └── README.md
 ```
 
